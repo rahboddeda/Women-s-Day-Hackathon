@@ -7,7 +7,8 @@ This project was developed for the "AI for Safer Online Spaces for Women" hackat
 ## Dataset
 
 Reference Paper: "An Expert-Annotated Dataset for the Detection of Online Misogyny."
-dataset link: https://github.com/ellamguest/online-misogyny-eacl2021
+
+Dataset link: https://github.com/ellamguest/online-misogyny-eacl2021
 
 We used a dataset containing Reddit discussions with a parent-child conversational structure. The dataset includes:
 
